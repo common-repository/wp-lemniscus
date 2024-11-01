@@ -1,0 +1,9 @@
+#token {
+	width: 25em;
+}
+
+@media screen and (max-width: 768px){
+	#token {
+		width: 100%;
+	}
+}

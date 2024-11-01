@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Lemniscus\n"
+"POT-Creation-Date: 2018-02-02 18:42+0100\n"
+"PO-Revision-Date: 2018-02-02 18:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-lemniscus.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-lemniscus-settings.php:70
+#: includes/class-lemniscus-settings.php:226
+msgid "Lemniscus Settings"
+msgstr "Lemniscus Einstellungen"
+
+#: includes/class-lemniscus-settings.php:99
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/class-lemniscus-settings.php:111
+msgid "Standard"
+msgstr "Standard"
+
+#: includes/class-lemniscus-settings.php:117
+#: includes/class-lemniscus-settings.php:154
+msgid "Your Token"
+msgstr "Ihr Token"
+
+#: includes/class-lemniscus-settings.php:118
+msgid "Enter your Lemniscus Token."
+msgstr "Geben Sie Ihr Lemniscus Token ein."
+
+#: includes/class-lemniscus-settings.php:121
+msgid "Placeholder text"
+msgstr "Platzhalter Text"
+
+#: includes/class-lemniscus-settings.php:125
+msgid "Show Footer"
+msgstr "Zeige Fußzeile"
+
+#: includes/class-lemniscus-settings.php:126
+msgid "Check this if you want to show the footer."
+msgstr "Aktivieren, um die Fußzeile anzuzeigen."
+
+#: includes/class-lemniscus-settings.php:132
+msgid "Pick a colour"
+msgstr "Wählen Sie eine Farbe"
+
+#: includes/class-lemniscus-settings.php:133
+msgid "Color for the breadcrumb background."
+msgstr "Farbe für die Hintergrund-Navigation."
+
+#: includes/class-lemniscus-settings.php:141
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: includes/class-lemniscus-settings.php:146
+msgid "Host"
+msgstr "Host"
+
+#: includes/class-lemniscus-settings.php:147
+msgid "Enter Lemniscus host."
+msgstr "Geben Sie den Lemniscus Host ein."
+
+#: includes/class-lemniscus-settings.php:150
+msgid "https://my.lemniscus.de"
+msgstr "https://my.lemniscus.de"
+
+#: includes/class-lemniscus-settings.php:155
+msgid "Enter script url."
+msgstr "Geben Sie die Skript URL ein."
+
+#: includes/class-lemniscus-settings.php:158
+msgid "https://my.lemniscus.de/pss/pss.nocache.js"
+msgstr "https://my.lemniscus.de/pss/pss.nocache.js"
+
+#: includes/class-lemniscus-settings.php:278
+msgid "Save Settings"
+msgstr "Einstellungen Speichern"
+
+#: includes/class-lemniscus-settings.php:309
+#: includes/class-lemniscus-settings.php:318 includes/class-lemniscus.php:283
+#: includes/class-lemniscus.php:292
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#: includes/lib/class-lemniscus-admin-api.php:159
+msgid "Upload an image"
+msgstr "Ein Bild hochladen"
+
+#: includes/lib/class-lemniscus-admin-api.php:159
+msgid "Use image"
+msgstr "Bild Benutzen"
+
+#: includes/lib/class-lemniscus-admin-api.php:159
+msgid "Upload new image"
+msgstr "Neues Bild hochladen"
+
+#: includes/lib/class-lemniscus-admin-api.php:160
+msgid "Remove image"
+msgstr "Bild entfernen"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Lemniscus"
+msgstr "WP Lemniscus"
+
+#. Description of the plugin/theme
+msgid "Adding Lemniscus Code via WP Shortcode"
+msgstr "Lemniscus Code über ein WordPress Shortcode hinzufügen"
+
+#. Author of the plugin/theme
+msgid "Marian Heddesheimer"
+msgstr "Marian Heddesheimer"
+
+#. Author URI of the plugin/theme
+msgid "https://heddesheimer.de"
+msgstr "https://heddesheimer.de"
